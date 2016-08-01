@@ -1,0 +1,36 @@
+* Types of data
+
+** Numerical
+
+- discrete
+- continuous
+
+** Categorical
+
+- gender
+- race
+- state
+- etc
+
+** Ordinal
+
+Mixture between numerical and categorical.
+(For example number of stars for a movie on IMDB).
+
+* Population and sample variance
+
+If you only take a sample divide by N-1, if it's the whole population
+just divide by.
+
+*Population variance* vs *Sample variance*.
+
+* Moments
+
+Used to describe the shape of a function
+
+- first moment mean
+- second moment is the variance
+- third moment is the *skew*, how lopsided
+- the fourth moment is the *kurtosis*, how thick is the tail and how sharp is the peak
+
+# Histogram and bar chart is not the same
