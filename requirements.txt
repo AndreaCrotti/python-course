@@ -10,5 +10,8 @@ statsmodels==0.6.1
 folium==0.2.1
 networkx==1.11
 ggplot==0.10.4
-bokek==0.12.0
-jupyter-dashboard==0.6.0
+bokeh==0.12.0
+# for the course
+xlrd==1.0.0
+sqlalchemy==1.0.14
+scikit-learn==0.17.1
