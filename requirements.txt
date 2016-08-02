@@ -21,9 +21,9 @@ sh==1.11
 pathlib==1.0.1
 # geographic stuff
 geopandas==0.2.1
-pysal
-rasterstats
-geopy
-fiona
-scikit-images
-descartes
+pysal==1.11.2
+rasterstats===0.10.3
+geopy==1.11.0
+fiona==1.7.0.post2
+scikit-images==0.12.3
+descartes==1.0.2
