@@ -19,3 +19,11 @@ pydot2==1.0.33
 psycopg2==2.6.2
 sh==1.11
 pathlib==1.0.1
+# geographic stuff
+geopandas==0.2.1
+pysal
+rasterstats
+geopy
+fiona
+scikit-images
+descartes
