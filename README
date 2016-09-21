@@ -5,3 +5,7 @@
 - http://darribas.org/gds15/index.html
 - http://www.data-analysis-in-python.org/t_gis.html
 - http://kjordahl.github.io/SciPy-Tutorial-2015/#32
+
+## Conditional probability
+
+P(B | A) = P(A, B) / P(A)
